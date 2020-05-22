@@ -19,13 +19,3 @@ console.log(palindrome("mom"));
 
 
 
-/* function reverseString(str) {
-    return str.split("").reverse().join("");
-}
- var compare = reverseString(""); 
-if (compare == "str"){
-    console.log("true"); 
-} else {
-    console.log("false");
-}
- */
